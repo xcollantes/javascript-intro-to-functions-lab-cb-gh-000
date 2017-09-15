@@ -1,4 +1,4 @@
 function shout (in)
 {
-  return in.toUpperCase();
+  console.console.log(in.toUpperCase());
 }
