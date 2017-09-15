@@ -1,4 +1,4 @@
-function shout (in)
+function shout (phrase)
 {
-  console.log(in.toUpperCase());
+  console.log(phrase.toUpperCase());
 }
