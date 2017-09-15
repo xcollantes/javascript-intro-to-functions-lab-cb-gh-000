@@ -12,5 +12,6 @@ function whisper (phrase)
 
 function logShout (phrase)
 {
-  
+  var i = shout(phrase);
+  console.log(i);
 }
