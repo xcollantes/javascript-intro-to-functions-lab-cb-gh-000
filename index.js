@@ -1,4 +1,5 @@
 function shout (phrase)
 {
-  return phrase === phrase.toUpperCase() ? true : false;
+  return phrase.toUpperCase();
+  phrase === phrase.toUpperCase() ? true : false;
 }
