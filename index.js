@@ -21,3 +21,8 @@ function logWhisper (phrase)
   var i = whisper(phrase);
   console.log(i);
 }
+
+function sayHiToGrandma (phrase)
+{
+return phrase === phrase.toUpperCase() ? "YES INDEED!" : "I can't hear you!"; 
+}
