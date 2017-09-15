@@ -29,5 +29,5 @@ function sayHiToGrandma (phrase)
 
 function sayHiToGrandma (phrase)
 {
-  return phrase === "I love you, Grandma" ? "YES INDEED!" : "I can't hear you!";
+  return phrase === "I love you, Grandma" ? "I love you, too" : "I can't hear you!";
 }
