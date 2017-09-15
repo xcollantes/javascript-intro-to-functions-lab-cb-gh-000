@@ -9,3 +9,8 @@ function whisper (phrase)
   return phrase.toLowerCase();
   //phrase === phrase.toUpperCase() ? true : false;
 }
+
+function logShout (phrase)
+{
+  
+}
