@@ -31,8 +31,3 @@ function sayHiToGrandma (phrase)
   else if (phrase === "I love you, Grandma")
     return "I love you, too";
 }
-
-function sayHiToGrandma (phrase)
-{
-  return phrase === "I love you, Grandma" ? "I love you, too" : "I can't hear you!";
-}
