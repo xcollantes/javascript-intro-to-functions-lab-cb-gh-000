@@ -28,6 +28,6 @@ function sayHiToGrandma (phrase)
     return "YES INDEED!";
   else if (phrase === phrase.toUpperCase())
     return "I love you, too";
-  else  
+  else
     return "I can't hear you!";
 }
