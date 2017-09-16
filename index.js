@@ -24,10 +24,10 @@ function logWhisper (phrase)
 
 function sayHiToGrandma (phrase)
 {
-  if (phrase === phrase.toUpperCase())
+  if (phrase === "I love you, Grandma")
     return "YES INDEED!";
   else if (phrase != phrase.toUpperCase())
     return "I can't hear you!";
-  else if (phrase === "I love you, Grandma")
+  else if (phrase === phrase.toUpperCase())
     return "I love you, too";
 }
